@@ -10,7 +10,7 @@ My research interests include vision language navigation/interaction.Producing c
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivacharan22&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![Let me do it](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 
