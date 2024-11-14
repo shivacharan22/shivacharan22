@@ -1,3 +1,5 @@
 # About Me:
-I'm Shiva, a Graduate MSc student in Artificial Intelligence at Boston University. I am ranked 1642 out of 205,641 as of July 2024 in Kaggle competitions worldwide ranking. I have worked with real-world data and tasks given by companies Optiver, XTX Investments, Home Credit Group, and Kaggle involving volatility prediction, credit risk, and AI math solving using LLMs, which has earned me medals. I worked on open-source datasets for LLM reasoning, and visual datasets paired with textual instructions for vision-language tasks. Additionally, I have engaged with audio recordings for mosquito wingbeat frequencies, policy documents, and user interaction data. I'm currently working on improving the ARC benchmark and researching enhancements for post-training methods for LLMs.
+Graduate MSc student in Artificial Intelligence at Boston University. Ranked 1359 out of 205,641 as of 11/2024 in Kaggle competitions worldwide ranking. 
+
+Currently working on improving the ARC benchmark and researching enhancements for post-training methods for LLMs.
 ---
